@@ -12,7 +12,8 @@
 [![Status](https://img.shields.io/badge/Status-MVP_in_progress-c9d1d9.svg)](#)
 [![License](https://img.shields.io/badge/Licencia-Proyecto%20social%20%2F%20educativo-23292c.svg)](#)
 
-**Contacto del proyecto (Líder):** <a href="mailto:diedereicha@uamv.edu.ni">diedereicha@uamv.edu.ni</a>
+**Contactos del proyecto (Desarrollador):** <a href="mailto:diedereicha@uamv.edu.ni">diedereicha@uamv.edu.ni</a>
+**Contactos del proyecto (Desarrollador):** <a href="mailto:difmora@uamv.edu.ni">difmora@uamv.edu.ni</a>
 
 </div>
 
@@ -196,6 +197,7 @@ php artisan serve   # opcional; en Laragon puede usar http://mypetmatch.test
 - **Ashly Alejandrina Flores Cruz** — **Finanzas**  
 
 - **Contacto del equipo** · 📧 <a href="mailto:diedereicha@uamv.edu.ni">diedereicha@uamv.edu.ni</a>
+- **Contacto del equipo** · 📧 <a href="mailto:difmora@uamv.edu.ni">difmora@uamv.edu.ni</a>
 
 ---
 
